@@ -26,7 +26,7 @@ module.exports = {
   ],
   author: {
     name: 'Sam Schmitt',
-    photo: 'profile-photo.jpg',
+    photo: 'photo.jpg',
     bio: 'Hi 👋🏼. I\'m Sam Schmitt, an iOS developer interested in Swift, Apple Platforms, DevOps, Civil Engineering, and a lot of other stuff!',
     contacts: {
       email: 'hey@samschmitt.com',
