@@ -22,6 +22,7 @@ const useSiteMetadata = () => {
                 codepen
                 youtube
                 soundcloud
+                microblog
               }
             }
             menu {

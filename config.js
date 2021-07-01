@@ -34,18 +34,13 @@ module.exports = {
     bio: 'Hi 👋🏼. I\'m Sam Schmitt, an iOS developer interested in Swift, Apple Platforms, DevOps, Civil Engineering, and a lot of other stuff!',
     contacts: {
       email: 'hey@samschmitt.com',
-      //facebook: '',
       telegram: 'samcat116',
       twitter: 'samcat116',
       github: 'samcat116',
       rss: 'rss.xml',
-      vkontakte: '',
       linkedin: 'samuellschmitt',
       instagram: 'samcat116',
-      line: '',
       gitlab: 'samschmitt',
-      weibo: '',
-      codepen: '',
       youtube: 'UCRscMfZaVDjGWgJbU2LNfnw',
       soundcloud: 'samcat116',
       microblog: 'https://micro.samschmitt.com'
