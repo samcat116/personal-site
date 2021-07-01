@@ -19,7 +19,6 @@ const useSiteMetadata = () => {
                 email
                 rss
                 gitlab
-                codepen
                 youtube
                 soundcloud
                 microblog
