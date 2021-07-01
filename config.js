@@ -48,6 +48,7 @@ module.exports = {
       codepen: '',
       youtube: 'UCRscMfZaVDjGWgJbU2LNfnw',
       soundcloud: 'samcat116',
+      microblog: 'https://micro.samschmitt.com'
     }
   }
 };
