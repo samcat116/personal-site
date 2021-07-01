@@ -15,10 +15,10 @@ module.exports = {
       label: 'Articles',
       path: '/'
     },
-    {
-      label: 'Feed',
-      url: 'https://micro.samschmitt.com/'
-    }
+    // {
+    //   label: 'Feed',
+    //   path: 'https://micro.samschmitt.com'
+    // }
 //    {
 //      label: 'About me',
 //      path: '/pages/about'
