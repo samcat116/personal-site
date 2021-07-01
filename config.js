@@ -17,7 +17,7 @@ module.exports = {
     },
     {
       label: 'Feed',
-      path: 'https://micro.samschmitt.com/'
+      url: 'https://micro.samschmitt.com/'
     }
 //    {
 //      label: 'About me',
